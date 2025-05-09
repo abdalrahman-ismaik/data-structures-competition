@@ -1,5 +1,6 @@
 # High-Performance Hash Table – COSC310 Competition Winner 🥇
-This repository contains my winning submission for the **COSC310 "Battle of Data Structures"** assignment, Spring 2025. The goal was to design and implement a **custom data structure optimized for performance** across a variety of operational workloads.
+![cosc310-spring-2025-competition-abdul-rahman_page-0001](https://github.com/user-attachments/assets/22383bc1-069c-49c2-9e5d-7936def38c13)
+This repository contains my winning submission among 92 students for the **COSC310 "Battle of Data Structures"** assignment, Spring 2025. The goal was to design and implement a **custom data structure optimized for performance** across a variety of operational workloads.
 
 📌 **Award**: 1st Place   
 📚 **Instructor**: Dr. Majid Khonji  
@@ -59,3 +60,15 @@ Each student’s implementation was tested against the following operation patte
 DS_100064692.java       ← Final implementation
 DS_100064692.pdf        ← Short technical report (2 pages)
 README.md               ← This file
+```
+
+---
+
+## 🙌 Acknowledgments
+Special thanks to Dr. Majid Khonji for designing a challenging and rewarding course.
+
+## 🔗 Related
+📄 LinkedIn Article – [🏆 Winning the "Battle of Data Structures" Competition]()
+
+## 📫 Contact
+Feel free to reach out on LinkedIn if you’d like to collaborate, ask questions, or discuss performance-driven data structure design!
