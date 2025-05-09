@@ -68,7 +68,7 @@ README.md               ← This file
 Special thanks to Dr. Majid Khonji for designing a challenging and rewarding course.
 
 ## 🔗 Related
-📄 LinkedIn Article – [🏆 Winning the "Battle of Data Structures" Competition]()
+📄 LinkedIn Article – [🏆 Winning the "Battle of Data Structures" Competition](https://www.linkedin.com/pulse/winning-battle-data-structures-competition-abd-alrahman-ismaik-tzahe)
 
 ## 📫 Contact
 Feel free to reach out on LinkedIn if you’d like to collaborate, ask questions, or discuss performance-driven data structure design!
